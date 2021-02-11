@@ -1130,7 +1130,7 @@ locale["npc.100025.name"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Bischhof",
+	"de": "Bischof",
 	"jp": "",
 	"pt": "",
 	"vi": "",
